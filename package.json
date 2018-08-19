@@ -1,0 +1,23 @@
+{
+  "name": "question-bank",
+  "version": "0.0.1",
+  "description": "题库系统",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaoxiaohai/question-bank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaoxiaohai/question-bank/issues"
+  },
+  "homepage": "https://github.com/zhaoxiaohai/question-bank#readme"
+}
