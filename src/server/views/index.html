@@ -1,0 +1,10 @@
+{% extends 'layout.html' %}
+{% block title %}My Page{% endblock %}
+{% block head %}
+{% parent %}
+    <link rel="stylesheet" href="/src/server/public/css/index.css">
+    <script src="/src/server/public/script/index.js"></script>
+{% endblock %}
+{% block content %}
+    <p>This is just an awesome page.</p>
+{% endblock %}
